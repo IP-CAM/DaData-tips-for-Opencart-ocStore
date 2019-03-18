@@ -1,2 +1,1 @@
-# dadata-opencart
-Подсказки DaData для Opencart/ocStore
+DaData Tips for Opencart / ocStore
